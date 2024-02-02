@@ -10,6 +10,7 @@ entries:
     long_description_html: |
         Install audio.
     tags:
-      - Audio
+      - this is a very very long tag to see the wrapping
+      - this is another very very long tag to see the wrapping
     git_url: 'https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation'
     is_prototype: true
