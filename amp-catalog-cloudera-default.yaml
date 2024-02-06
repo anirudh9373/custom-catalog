@@ -32,7 +32,7 @@ entries:
     long_description_html: |
         Choose any 7B or 13B LLM from HuggingFace and deploy as a CML Model. Cloudera Machine Learning models expose an Inference endpoint for users to access and communicate with. The AMP creates a Gradio App UI which can be used to interact with the deployed CML Model.
     image_path: >-
-      https://raw.githubusercontent.com/nkityd09/cml_hf_models/blob/main/images/cml_hf_ui.png
+      https://raw.githubusercontent.com/nkityd09/cml_hf_models/main/images/cml_hf_ui.png
     tags:
       - huggingface
       - 7B
